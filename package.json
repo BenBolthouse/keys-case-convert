@@ -1,0 +1,29 @@
+{
+  "name": "case-convert",
+  "version": "0.1.0",
+  "description": "An unobtrusive case conversion solution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenBolthouse/case-convert.git"
+  },
+  "keywords": [
+    "string",
+    "case",
+    "convert",
+    "camel",
+    "pascal",
+    "pipe",
+    "snake",
+    "validate"
+  ],
+  "author": "Ben Bolthouse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenBolthouse/case-convert/issues"
+  },
+  "homepage": "https://github.com/BenBolthouse/case-convert#readme"
+}
