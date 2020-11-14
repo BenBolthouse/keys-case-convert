@@ -1,10 +1,11 @@
 {
-  "name": "case-convert",
-  "version": "0.1.0",
-  "description": "An unobtrusive case conversion solution.",
+  "name": "keys-case-convert",
+  "version": "1.0.1",
+  "description": "Deep or shallow convert js object keys to camel, pascal, kebab or snake case.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test",
+    "minify": "minify src/index.js > index.js && minify src/converters.js > converters.js"
   },
   "repository": {
     "type": "git",
