@@ -1,6 +1,6 @@
 # keys-case-convert
 
-An unobtrusive case conversion solution.
+Deep or shallow convert js object keys to camel, pascal, kebab or snake case.
 
 Install by using `npm i keys-case-convert`.
 
